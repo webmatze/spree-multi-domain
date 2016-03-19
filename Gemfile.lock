@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     spree_multi_domain (1.0.0)
-      spree_core (~> 1.2)
+      spree_core (~> 1.2.0)
 
 GEM
   remote: http://rubygems.org/

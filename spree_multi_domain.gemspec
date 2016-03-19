@@ -17,8 +17,8 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 1.2'
-  s.add_dependency 'spree_promo', '~> 1.2'
+  s.add_dependency 'spree_core', '~> 1.2.0'
+  s.add_dependency 'spree_promo', '~> 1.2.0'
 
   s.add_development_dependency 'capybara', '~> 1.1.4'
   # This is the version used in Spree 1.3.2
